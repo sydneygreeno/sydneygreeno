@@ -1,16 +1,18 @@
 ### 
-<h1 align="center">Sydney Greeno</h1>
+<h1 align="center">:star:Sydney Greeno:star:</h1>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
 </div>
-### :woman_technologist: About Me :
+### :cat: About Me :
 - :star2: I am a junior at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="50px">
 
-- :telescope: I enjoy engineering and developing projects in my free time.
+- :memo: I enjoy engineering and developing projects in my free time.
 
-- :seedling: I'm also an artist specializing in acrylic and oil paintings. Check out my art! [Portfolio](https://www.instagram.com/syd_ney_art_ist/)
+- :art: I'm also an artist specializing in acrylic and oil paintings. Check out my art [portfolio](https://www.instagram.com/syd_ney_art_ist/)
 
 - :zap: I have experience with data analysis/SWE from internships and projects.
 
@@ -18,7 +20,7 @@
 
 <div id="header" align="center">
   <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
-    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" size="30px"/>
+    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" height="50"/>
   </a>
 </div>
 
