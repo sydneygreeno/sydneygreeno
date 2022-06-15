@@ -1,4 +1,4 @@
-<h1 align="center">:night_with_stars::seedling::star: sydney greeno :star::seedling::night_with_stars:</h1>
+<h1 align="center">:night_with_stars: :seedling: :star: sydney greeno :star: :seedling: :night_with_stars:</h1>
 ###
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
