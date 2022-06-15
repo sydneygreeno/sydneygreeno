@@ -28,6 +28,6 @@
 </div>
 
 
-#
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
 
 
