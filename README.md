@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats) 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100"> ##############################################[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats) 
 
 
 :cat:_About Me:_
