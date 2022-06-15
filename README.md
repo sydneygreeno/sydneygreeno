@@ -1,7 +1,9 @@
 ### 
+<h1 align="center">Sydney Greeno</h1>
+
 <div id="header" align="center">
   <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
-    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner"/>
+    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" size="30px"/>
   </a>
 </div>
 
@@ -12,7 +14,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a junior at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10">
+- :star2: I am a junior at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10">
 
 - :telescope: I enjoy engineering and developing projects in my free time.
 
