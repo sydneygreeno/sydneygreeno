@@ -6,7 +6,7 @@
   </a>
 </div>
 ### :woman_technologist: About Me :
-- :star2: I am a junior at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10">
+- :star2: I am a junior at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="50px">
 
 - :telescope: I enjoy engineering and developing projects in my free time.
 
