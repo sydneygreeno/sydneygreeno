@@ -1,7 +1,5 @@
 ### Sydney Greeno
-<div id="header" align="center">
-  <img src="/Users/sydneygreeno/Desktop/untitled folder/my-website/backg.gif" width="100"/>
-</div>
+![](https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif)
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
