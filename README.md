@@ -6,8 +6,7 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100" align="center"> ##############################[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100" align="center">
 
 :cat:_About Me:_
 
@@ -30,3 +29,5 @@
 
 <!--
 **sydneygreeno/sydneygreeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+######[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
