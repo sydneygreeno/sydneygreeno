@@ -1,4 +1,9 @@
-### ![](https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif)
+### 
+<div id="header" align="center">
+  <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
+    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner"/>
+  </a>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
