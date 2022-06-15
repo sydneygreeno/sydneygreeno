@@ -1,4 +1,5 @@
-### Sydney Greeno
+### 
+<h1 align="center">Sydney Greeno</h1>
 ![](https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
