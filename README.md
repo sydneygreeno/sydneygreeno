@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="10px">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20">
 :cat:_About Me:_
 
 - :star2: I am a junior at **UC Berkeley** studying computer science 
