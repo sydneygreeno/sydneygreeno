@@ -1,23 +1,16 @@
 ### Sydney Greeno
 ![](https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif)
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
 ### :woman_technologist: About Me :
-I am a student at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a student at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10">
 
 - :telescope: I enjoy engineering and developing projects in my free time.
 
