@@ -2,11 +2,11 @@
 ###
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40"/>
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="20">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="10px">
 :cat:_About Me:_
 
 - :star2: I am a junior at **UC Berkeley** studying computer science 
