@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">Sydney Greeno</h1>
+![](https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif)
 
-<div> ![](https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif) </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sydney-greeno-6186421b2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
