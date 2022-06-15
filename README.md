@@ -21,7 +21,7 @@
 
 <div id="header" align="center">
   <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
-    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner"/>
+    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" height="300"/>
   </a>
 </div>
 
