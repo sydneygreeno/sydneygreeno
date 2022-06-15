@@ -27,7 +27,6 @@
   </a>
 </div>
 
-<!--
-**sydneygreeno/sydneygreeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
 
-######[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
+
