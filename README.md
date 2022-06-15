@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
 :cat:_About Me:_
 
 - :star2: I am a junior at **UC Berkeley** studying computer science 
@@ -18,8 +18,7 @@
 - :zap: I have experience with **data analysis/SWE** from internships and projects.
 
 - :mailbox: Reach me through [email](sydneygreeno@berkeley.edu)
-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
+
 
 <div id="header" align="center">
   <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
