@@ -7,8 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
 </div>
-### :cat: About Me :
-- :star2: I am a junior at UC Berkeley studying computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="50px">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" size="50px">
+:cat: About Me :
+- :star2: I am a junior at UC Berkeley studying computer science 
 
 - :memo: I enjoy engineering and developing projects in my free time.
 
@@ -20,7 +21,7 @@
 
 <div id="header" align="center">
   <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
-    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" height="50"/>
+    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" height="500"/>
   </a>
 </div>
 
