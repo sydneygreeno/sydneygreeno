@@ -10,7 +10,7 @@
 
 :cat:_About Me:_
 
-- :star2: I am a student at **UC Berkeley** studying 
+- :star2: I am a student at **UC Berkeley** 
 
 - :memo: I enjoy engineering and developing projects in my free time
 
