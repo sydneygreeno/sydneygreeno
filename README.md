@@ -10,11 +10,11 @@
 
 :cat:_About Me:_
 
-- :star2: I am a junior at **UC Berkeley** studying computer science 
+- :star2: I am a student at **UC Berkeley** studying 
 
 - :memo: I enjoy engineering and developing projects in my free time
 
-- :art: I'm also an artist specializing in **acrylic and oil paintings**. Check out my art [portfolio](https://www.instagram.com/syd_ney_art_ist/) !
+- :art: I'm also an artist. Check out my paintings [portfolio](https://www.instagram.com/syd_ney_art_ist/) !
 
 - :zap: I have experience with **data analysis/SWE** from internships and projects
 
