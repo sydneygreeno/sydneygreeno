@@ -10,15 +10,11 @@
 
 :cat:_About Me:_
 
-- :star2: I am a student at **UC Berkeley** 
+- :star2: I am an animation student at **ArtCenter College of Design** 
 
 - :memo: I enjoy engineering and developing projects in my free time
 
-- :art: I'm also an artist. Check out my paintings [portfolio](https://www.instagram.com/syd_ney_art_ist/) !
-
-- :zap: I have experience with **data analysis/SWE** from internships and projects
-
-- :mailbox: Reach me through [email](sydneygreeno@berkeley.edu)
+- :mailbox: Reach me through [email](sydney.greeno27@gmail.com)
 
 
 <div id="header" align="center">
