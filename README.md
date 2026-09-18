@@ -17,4 +17,3 @@
 - :mailbox: Reach me through [email](sydney.greeno27@gmail.com)
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
