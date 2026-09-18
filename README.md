@@ -16,13 +16,5 @@
 
 - :mailbox: Reach me through [email](sydney.greeno27@gmail.com)
 
-
-<div id="header" align="center">
-  <a href="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif">
-    <img src="https://github.com/sydneygreeno/sydneygreeno/blob/main/backg%20copy.gif" alt="banner" height="300"/>
-  </a>
-</div>
-
-
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneygreeno)](https://github.com/sydneygreeno/github-readme-stats)
